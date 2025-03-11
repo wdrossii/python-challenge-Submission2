@@ -1,3 +1,4 @@
+#All results copied from Steven Green's results, assumed authored by Steven Green.
 # -*- coding: UTF-8 -*-
 """PyPoll Homework Solution."""
 
